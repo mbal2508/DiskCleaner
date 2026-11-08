@@ -53,5 +53,5 @@ Karena aplikasi ini dikembangkan untuk dijalankan secara langsung di sistem loka
 ```
 <div align="center">
   <p>Dibuat oleh <strong>Jemar Muhammad Firdiana</strong></p>
-  <p><em>Sekbid 3 OSIS • 2026 All rights reserved.</em></p>
+  <p>2026 All rights reserved.</em></p>
 </div>
