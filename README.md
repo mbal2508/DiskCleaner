@@ -50,7 +50,7 @@ Karena aplikasi ini dikembangkan untuk dijalankan secara langsung di sistem loka
    
 ```bash
    git clone [https://github.com/mbal2508/DiskCleaner.git](https://github.com/mbal2508/DiskCleaner.git)
-
+```
 <div align="center">
   <p>Dibuat oleh <strong>Jemar Muhammad Firdiana</strong></p>
   <p><em>Sekbid 3 OSIS • 2026 All rights reserved.</em></p>
